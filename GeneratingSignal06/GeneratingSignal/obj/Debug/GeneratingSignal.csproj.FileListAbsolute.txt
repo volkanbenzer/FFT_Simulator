@@ -1,0 +1,75 @@
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csprojAssemblyReference.cache
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.AssemblyReference.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.SuggestedBindingRedirects.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.AssemblyReference.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.SuggestedBindingRedirects.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal02\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.AssemblyReference.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.SuggestedBindingRedirects.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\GeneratingSignal\GeneratingSignal03\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.csprojAssemblyReference.cache
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+H:\Signal Proccessing\FFT_Volkan\GeneratingSignal04\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.AssemblyReference.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.SuggestedBindingRedirects.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal05\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.AssemblyReference.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.SuggestedBindingRedirects.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.Form1.resources
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.Properties.Resources.resources
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.GenerateResource.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.csproj.CoreCompileInputs.cache
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\obj\Debug\GeneratingSignal.pdb
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\bin\Debug\GeneratingSignal.exe.config
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\bin\Debug\GeneratingSignal.exe
+C:\Users\volkan.benzer\Desktop\Volkan C#\FFT_Volkan\GeneratingSignal\GeneratingSignal06\GeneratingSignal\bin\Debug\GeneratingSignal.pdb
